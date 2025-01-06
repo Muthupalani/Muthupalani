@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Muthupalani R! - AI & Data Science Enthusiast
 
-Welcome to my GitHub! I’m passionate about Artificial Intelligence, Data Science, and building amazing projects. Feel free to explore my repositories and learn more about my work.
+Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **Data Science**, and building amazing projects. Feel free to explore my repositories and learn more about my work. 💻✨
 
-
+---
 
 ## 💻 Technical Skills
 
@@ -13,7 +13,7 @@ Welcome to my GitHub! I’m passionate about Artificial Intelligence, Data Scien
 ![R](https://img.shields.io/badge/R-%23276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%2300736B?style=flat-square&logo=java&logoColor=white)
 
-### **Frontend Languages:**
+### **Frontend Technologies:**
 
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
@@ -25,48 +25,61 @@ Welcome to my GitHub! I’m passionate about Artificial Intelligence, Data Scien
 
 ### 🔥 Contributions & Streak
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muthupalani&show_icons=true&theme=dark&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muthupalani&theme=dark&hide_border=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muthupalani&show_icons=true&theme=radical&hide_border=true)  
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muthupalani&theme=radical&hide_border=true)
 
 ---
-<div style="display: flex; gap: 30px; justify-content: center; align-items: center; margin-top: 40px;">
-  <!-- Python Box -->
-  <div 
-    onclick="alert('Python: 40%')" 
-    style="background-color: #3776AB; color: white; border-radius: 15px; padding: 30px; text-align: center; cursor: pointer; width: 150px; height: 150px; transition: transform 0.3s, background-color 0.3s;"
-    onmouseover="this.style.transform='scale(1.2)'; this.style.backgroundColor='#28587B';" 
-    onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#3776AB';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" style="width: 60px; height: 60px; margin-bottom: 10px;">
-    <p style="margin: 0; font-weight: bold; font-size: 16px;">Python</p>
+
+## 🛠️ My Expertise
+<p align="center">
+  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%23FFB6C1?style=flat-square" alt="AI & ML Badge">
+  <img src="https://img.shields.io/badge/Data%20Science-%23FFD700?style=flat-square" alt="Data Science Badge">
+  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF4500?style=flat-square" alt="Deep Learning Badge">
+</p>
+
+---
+
+## 🖥️ Tech Stack Badges with Hover Animations
+
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+
+  <!-- Python Box with Hover Animation -->
+  <div style="width: 150px; height: 150px; background-color: #3776AB; display: flex; justify-content: center; align-items: center; border-radius: 15px; transition: transform 0.3s, background-color 0.3s; cursor: pointer;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" style="width: 60px; height: 60px; transition: transform 0.3s;">
+    <p style="color: white; margin-top: 10px; font-weight: bold; text-align: center;">Python</p>
   </div>
 
-  <!-- Java Box -->
-  <div 
-    onclick="alert('Java: 30%')" 
-    style="background-color: #007396; color: white; border-radius: 15px; padding: 30px; text-align: center; cursor: pointer; width: 150px; height: 150px; transition: transform 0.3s, background-color 0.3s;"
-    onmouseover="this.style.transform='scale(1.2)'; this.style.backgroundColor='#00576B';" 
-    onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#007396';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" style="width: 60px; height: 60px; margin-bottom: 10px;">
-    <p style="margin: 0; font-weight: bold; font-size: 16px;">Java</p>
+  <!-- Java Box with Hover Animation -->
+  <div style="width: 150px; height: 150px; background-color: #007396; display: flex; justify-content: center; align-items: center; border-radius: 15px; transition: transform 0.3s, background-color 0.3s; cursor: pointer;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" style="width: 60px; height: 60px; transition: transform 0.3s;">
+    <p style="color: white; margin-top: 10px; font-weight: bold; text-align: center;">Java</p>
   </div>
 
-  <!-- HTML Box -->
-  <div 
-    onclick="alert('HTML: 20%')" 
-    style="background-color: #E34F26; color: white; border-radius: 15px; padding: 30px; text-align: center; cursor: pointer; width: 150px; height: 150px; transition: transform 0.3s, background-color 0.3s;"
-    onmouseover="this.style.transform='scale(1.2)'; this.style.backgroundColor='#C03921';" 
-    onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#E34F26';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" style="width: 60px; height: 60px; margin-bottom: 10px;">
-    <p style="margin: 0; font-weight: bold; font-size: 16px;">HTML</p>
+  <!-- HTML Box with Hover Animation -->
+  <div style="width: 150px; height: 150px; background-color: #E34F26; display: flex; justify-content: center; align-items: center; border-radius: 15px; transition: transform 0.3s, background-color 0.3s; cursor: pointer;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" style="width: 60px; height: 60px; transition: transform 0.3s;">
+    <p style="color: white; margin-top: 10px; font-weight: bold; text-align: center;">HTML</p>
   </div>
 
-  <!-- CSS Box -->
-  <div 
-    onclick="alert('CSS: 10%')" 
-    style="background-color: #1572B6; color: white; border-radius: 15px; padding: 30px; text-align: center; cursor: pointer; width: 150px; height: 150px; transition: transform 0.3s, background-color 0.3s;"
-    onmouseover="this.style.transform='scale(1.2)'; this.style.backgroundColor='#125A91';" 
-    onmouseout="this.style.transform='scale(1)'; this.style.backgroundColor='#1572B6';">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" style="width: 60px; height: 60px; margin-bottom: 10px;">
-    <p style="margin: 0; font-weight: bold; font-size: 16px;">CSS</p>
+  <!-- CSS Box with Hover Animation -->
+  <div style="width: 150px; height: 150px; background-color: #1572B6; display: flex; justify-content: center; align-items: center; border-radius: 15px; transition: transform 0.3s, background-color 0.3s; cursor: pointer;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" style="width: 60px; height: 60px; transition: transform 0.3s;">
+    <p style="color: white; margin-top: 10px; font-weight: bold; text-align: center;">CSS</p>
   </div>
 </div>
+
+<style>
+  /* Hover Effect Animation */
+  .tech-box:hover {
+    transform: scale(1.1);
+    background-color: #2b6bbf;
+  }
+
+  .tech-box img {
+    transition: transform 0.3s ease;
+  }
+
+  .tech-box:hover img {
+    transform: scale(1.2);
+  }
+</style>
