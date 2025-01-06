@@ -61,25 +61,4 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
     <p style="color: white; margin-top: 10px; font-weight: bold; text-align: center;">HTML</p>
   </div>
 
-  <!-- CSS Box with Hover Animation -->
-  <div style="width: 150px; height: 150px; background-color: #1572B6; display: flex; justify-content: center; align-items: center; border-radius: 15px; transition: transform 0.3s, background-color 0.3s; cursor: pointer;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS Logo" style="width: 60px; height: 60px; transition: transform 0.3s;">
-    <p style="color: white; margin-top: 10px; font-weight: bold; text-align: center;">CSS</p>
-  </div>
-</div>
 
-<style>
-  /* Hover Effect Animation */
-  .tech-box:hover {
-    transform: scale(1.1);
-    background-color: #2b6bbf;
-  }
-
-  .tech-box img {
-    transition: transform 0.3s ease;
-  }
-
-  .tech-box:hover img {
-    transform: scale(1.2);
-  }
-</style>
