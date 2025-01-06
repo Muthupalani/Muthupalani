@@ -39,7 +39,7 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 
 ---
 
-## 🖥️ Tech Stack Badges with Hover Animations
+## 🖥️ Most Used Languages 
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
 
