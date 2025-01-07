@@ -21,7 +21,7 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 
 ---
 
-## 🔐 GitHub Stats
+## 📊 GitHub Stats
 
 ### Stats Summary:
 
@@ -31,7 +31,6 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muthupalani&theme=radical&hide_border=true)
 
----
 
 ## 🛠️ My Expertise
 
