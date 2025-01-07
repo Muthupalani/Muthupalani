@@ -21,58 +21,54 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 GitHub Stats
 
-### 🔥 Contributions & Streak
+### Stats Summary:
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muthupalani&show_icons=true&theme=radical&hide_border=true)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Muthupalani&theme=radical&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Muthupalani&show_icons=true&theme=radical&hide_border=true)
+
+![GitHub Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Muthupalani&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Muthupalani&theme=radical&hide_border=true)
 
 ---
 
 ## 🛠️ My Expertise
+
+![AI & ML](https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%23FFB6C1?style=flat-square)
+![Data Science](https://img.shields.io/badge/Data%20Science-%23FFD700?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-%23FF4500?style=flat-square)
+
+---
+
+## 📝 Most Used Languages
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Muthupalani&layout=compact&theme=radical)
+
+---
+
+## 🔗 Connect with Me
+
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20%26%20Machine%20Learning-%23FFB6C1?style=flat-square" alt="AI & ML Badge">
-  <img src="https://img.shields.io/badge/Data%20Science-%23FFD700?style=flat-square" alt="Data Science Badge">
-  <img src="https://img.shields.io/badge/Deep%20Learning-%23FF4500?style=flat-square" alt="Deep Learning Badge">
+  <a href="https://www.linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://leetcode.com/">
+    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+  </a>
+  <a href="https://practice.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+  </a>
 </p>
 
 ---
 
+## 🎧 Spotify Playing
 
-## 🖥️ Most Used Languages
+![Spotify Now Playing](https://novatorem.vercel.app/api/spotify)
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
+---
 
-  <!-- Python Logo -->
-  <div style="text-align: center; cursor: pointer; transition: transform 0.3s ease-in-out;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="80" height="80" style="transition: transform 0.3s ease-in-out;">
-    <p style="font-weight: bold; color: #3776AB; margin-top: 10px;">Python</p>
-    <p style="visibility: hidden; font-size: 14px; color: #3776AB; margin-top: 5px;" class="percentage">75%</p>
-  </div>
+## 🏆 GitHub Achievements
 
-  <!-- Java Logo -->
-  <div style="text-align: center; cursor: pointer; transition: transform 0.3s ease-in-out;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="80" height="80" style="transition: transform 0.3s ease-in-out;">
-    <p style="font-weight: bold; color: #007396; margin-top: 10px;">Java</p>
-    <p style="visibility: hidden; font-size: 14px; color: #007396; margin-top: 5px;" class="percentage">85%</p>
-  </div>
-
-  <!-- HTML Logo -->
-  <div style="text-align: center; cursor: pointer; transition: transform 0.3s ease-in-out;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="80" height="80" style="transition: transform 0.3s ease-in-out;">
-    <p style="font-weight: bold; color: #E34F26; margin-top: 10px;">HTML</p>
-    <p style="visibility: hidden; font-size: 14px; color: #E34F26; margin-top: 5px;" class="percentage">90%</p>
-  </div>
-
-</div>
-
-<style>
-  div:hover img {
-    transform: scale(1.1);
-  }
-
-  div:hover .percentage {
-    visibility: visible;
-  }
-</style>
+![Trophy](https://github-profile-trophy.vercel.app/?username=Muthupalani&theme=radical)
