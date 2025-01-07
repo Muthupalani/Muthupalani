@@ -40,106 +40,39 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 ---
 
 
-## 🖥️ Most Used Languages 
+## 🖥️ Most Used Languages
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; gap: 30px;">
 
-  <!-- Python Box with Hover Animation -->
-  <div class="language-box" style="background-color: #3776AB;">
-    <div class="percentage" style="color: white; font-size: 20px; font-weight: bold;"></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo">
-    <p>Python</p>
+  <!-- Python Logo -->
+  <div style="text-align: center; cursor: pointer; transition: transform 0.3s ease-in-out;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="80" height="80" style="transition: transform 0.3s ease-in-out;">
+    <p style="font-weight: bold; color: #3776AB; margin-top: 10px;">Python</p>
+    <p style="visibility: hidden; font-size: 14px; color: #3776AB; margin-top: 5px;" class="percentage">75%</p>
   </div>
 
-  <!-- Java Box with Hover Animation -->
-  <div class="language-box" style="background-color: #007396;">
-    <div class="percentage" style="color: white; font-size: 20px; font-weight: bold;"></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo">
-    <p>Java</p>
+  <!-- Java Logo -->
+  <div style="text-align: center; cursor: pointer; transition: transform 0.3s ease-in-out;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java Logo" width="80" height="80" style="transition: transform 0.3s ease-in-out;">
+    <p style="font-weight: bold; color: #007396; margin-top: 10px;">Java</p>
+    <p style="visibility: hidden; font-size: 14px; color: #007396; margin-top: 5px;" class="percentage">85%</p>
   </div>
 
-  <!-- HTML Box with Hover Animation -->
-  <div class="language-box" style="background-color: #E34F26;">
-    <div class="percentage" style="color: white; font-size: 20px; font-weight: bold;"></div>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo">
-    <p>HTML</p>
+  <!-- HTML Logo -->
+  <div style="text-align: center; cursor: pointer; transition: transform 0.3s ease-in-out;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML Logo" width="80" height="80" style="transition: transform 0.3s ease-in-out;">
+    <p style="font-weight: bold; color: #E34F26; margin-top: 10px;">HTML</p>
+    <p style="visibility: hidden; font-size: 14px; color: #E34F26; margin-top: 5px;" class="percentage">90%</p>
   </div>
+
 </div>
 
-<!-- Add this CSS to your page -->
 <style>
-  .language-box {
-    width: 150px;
-    height: 150px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    border-radius: 15px;
-    transition: transform 0.3s ease, background-color 0.3s ease;
-    position: relative;
-    cursor: pointer;
-  }
-
-  .language-box img {
-    width: 60px;
-    height: 60px;
-    transition: transform 0.3s ease;
-  }
-
-  .language-box p {
-    color: white;
-    margin-top: 10px;
-    font-weight: bold;
-    text-align: center;
-  }
-
-  .language-box:hover {
+  div:hover img {
     transform: scale(1.1);
   }
 
-  .language-box:hover img {
-    transform: rotate(10deg);
-  }
-
-  .language-box:hover .percentage {
-    content: attr(data-percentage);
+  div:hover .percentage {
     visibility: visible;
-    position: absolute;
-    top: -20px;
-    font-size: 18px;
-    animation: fadeIn 0.5s ease;
-  }
-
-  .percentage {
-    visibility: hidden;
-  }
-
-  @keyframes fadeIn {
-    from {
-      opacity: 0;
-    }
-    to {
-      opacity: 1;
-    }
   }
 </style>
-
-<!-- Add this JavaScript for random percentage -->
-<script>
-  document.querySelectorAll('.language-box').forEach(box => {
-    box.addEventListener('mouseover', () => {
-      const percentage = Math.floor(Math.random() * 50) + 50; // Random percentage above 50%
-      const percentageElement = box.querySelector('.percentage');
-      percentageElement.textContent = `${percentage}%`;
-      percentageElement.style.visibility = 'visible';
-    });
-
-    box.addEventListener('mouseout', () => {
-      const percentageElement = box.querySelector('.percentage');
-      percentageElement.style.visibility = 'hidden';
-    });
-  });
-</script>
-
-
