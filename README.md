@@ -50,13 +50,13 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 
 <p align="center">
   <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://www.linkedin.com/in/muthu-palani-54310826a style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://leetcode.com/">
-    <img src="https://img.shields.io/badge/LeetCode-%23FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
+    <img src="https://leetcode.com/u/muthupalani/ style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode">
   </a>
   <a href="https://practice.geeksforgeeks.org/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-%2300C853?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
+    <img src="https://www.geeksforgeeks.org/user/muthupaltvrh/ style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks">
   </a>
 </p>
 
