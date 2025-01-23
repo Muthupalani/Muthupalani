@@ -62,12 +62,6 @@ Welcome to my GitHub! 🚀 I'm passionate about **Artificial Intelligence**, **D
 
 ---
 
-## 🎧 Spotify Playing
-
-![Spotify Now Playing](https://novatorem.vercel.app/api/spotify)
-
----
-
 ## 🏆 GitHub Achievements
 
 ![Trophy](https://github-profile-trophy.vercel.app/?username=Muthupalani&theme=radical)
